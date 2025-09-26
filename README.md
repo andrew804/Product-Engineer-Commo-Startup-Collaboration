@@ -1,10 +1,8 @@
-# Product Engineer Commo Startup Collaboration
-
 # Want a real startup app on your portfolio like this?
 
 I’m looking for student developers to help build a real startup app by developing specific features you can showcase in your portfolio. I’m the technical founder of an early-stage startup preparing to raise pre-seed investment, and I’d love to involve students in building an early version.
 
-You’d get a clear feature to own — with a defined user process flow to guide you — and full autonomy to implement it within agreed tools and frameworks. You’ll receive full credit for your contribution in your portfolio, CV, and LinkedIn.
+You’ll get a clear feature to own — with a defined user process flow to guide you — and full autonomy to implement it within agreed tools and frameworks. You’ll receive full credit for your contribution in your portfolio, CV, and LinkedIn.
 
 This is a great chance to work on something real that will be used by communities, and to add a strong project to your portfolio.
 
@@ -20,8 +18,9 @@ If this sounds interesting, DM me and I’ll share more about the app and the fe
 Thanks, 
 Andrew
 
-+447909338388
-andrew804@me.com
+WhatsApp: +447909338388
+Email: andrew804@me.com
 
 
+What this addition to your portfolio could look like:
 <img width="1024" height="1536" alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/3c895f09-2d37-45e4-a149-b98132e38906" />
