@@ -15,12 +15,12 @@ Each feature is scoped to be manageable alongside studies, and you’ll gain:
 
 If this sounds interesting, DM me and I’ll share more about the app and the features you could be tackling.
 
-Thanks, 
+Thanks,   
 Andrew
 
-WhatsApp: +447909338388
+WhatsApp: +447909338388  
 Email: andrew804@me.com
 
 
-What your portfolio could look like:
+##What your portfolio could look like:
 <img style="max-width: 100%; height: auto; display: block; margin: 0 auto;"> alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/3c895f09-2d37-45e4-a149-b98132e38906" />
