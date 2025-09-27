@@ -1,4 +1,4 @@
-# Want a real startup app on your portfolio like this?
+# Want a real startup app on your portfolio?
 
 I’m looking for student developers to help build a real startup app by developing specific features you can showcase in your portfolio. I’m the technical founder of an early-stage startup preparing to raise pre-seed investment, and I’d love to involve students in building an early version.
 
@@ -22,5 +22,5 @@ WhatsApp: +447909338388
 Email: andrew804@me.com
 
 
-##What your portfolio could look like:
-<img style="max-width: 100%; height: auto; display: block; margin: 0 auto;"> alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/3c895f09-2d37-45e4-a149-b98132e38906" />
+## What your portfolio could look like:
+<img style="max-width: 100%; height: auto; display: block; margin: 0 auto;" alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/3c895f09-2d37-45e4-a149-b98132e38906" />
