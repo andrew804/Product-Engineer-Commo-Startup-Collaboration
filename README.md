@@ -1,6 +1,6 @@
 # Want a real startup app on your portfolio?
 
-**I’m looking for student developers to help build a real startup app by developing specific features you can showcase in your portfolio.** I’m the technical founder of an early-stage startup preparing to raise pre-seed investment, and I’d love to involve students in building an early version.
+**I’m looking for student developers to help build a real startup app by developing specific features you can showcase in your portfolio.** I’m the technical founder of an early-stage startup preparing to raise pre-seed investment, and I’d love to involve students at this early stage.
 
 You’ll get a clear feature to own — with a defined user process flow to guide you — and full autonomy to implement it within agreed tools and frameworks. You’ll receive full credit for your contribution in your portfolio, CV, and LinkedIn.
 
