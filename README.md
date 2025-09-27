@@ -13,7 +13,7 @@ Each feature is scoped to be manageable alongside studies, and you’ll gain:
 * Full credit and references for your contribution
 * The chance to shape how the app is built, not just code to a spec
 
-If this sounds interesting, DM me and I’ll share more about the app and the features you could be tackling.
+If this sounds interesting, DM me and we can have a quick chat or set up a short call.
 
 Thanks,   
 Andrew Morris
