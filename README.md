@@ -2,7 +2,7 @@
 
 **I’m looking for student developers to help build a real startup app by developing specific features you can showcase in your portfolio.** I’m the technical founder of an early-stage startup preparing to raise pre-seed investment, and I’d love to involve students at this early stage.
 
-You’ll get a clear feature to own — with a defined user process flow to guide you — and full autonomy to implement it within agreed tools and frameworks. You’ll receive full credit for your contribution in your portfolio, CV, and LinkedIn.
+You’ll get a clear feature to own — with a defined user process flow and wireframes to guide you — and full autonomy to implement it within agreed tools and frameworks. You’ll receive full credit for your contribution across your portfolio, CV, and LinkedIn.
 
 This is a great chance to work on something real that will be used by communities, and to add a strong project to your portfolio.
 
