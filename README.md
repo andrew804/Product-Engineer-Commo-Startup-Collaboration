@@ -19,7 +19,8 @@ Thanks, 
 Andrew
 
 WhatsApp: +447909338388  
-Email: andrew804@me.com
+Email: andrew804@me.com  
+LinkedIn: https://www.linkedin.com/in/andrew-morris-b41301361
 
 
 #### What your portfolio could look like ⬇️
