@@ -1,6 +1,6 @@
 # Want a real startup app on your portfolio?
 
-I’m looking for a **computer science student or recent graduate** to take a lead, hands-on role in building a real startup app you can proudly showcase in your portfolio.
+I’m looking for a **computer science student or recent graduate** to take a hands-on, lead role in building a real startup app you can proudly showcase in your portfolio.
 
 I’m Andrew, the technical founder of Commo Communities, an early-stage startup preparing to raise pre-seed investment. Commo helps automate how real amateur community organisations — clubs, societies, and associations — are run.
 
