@@ -36,7 +36,7 @@ If you’re curious, entrepreneurial, and love building real products, message m
 🔗 **LinkedIn:** [Andrew Morris](https://www.linkedin.com/in/andrew-morris-b41301361)
 
 Thanks,   
-Andrew Morris
+**Andrew Morris**
 
 ---
 
