@@ -25,7 +25,7 @@ You’ll help drive that transition — **influencing direction, owning key tech
 ---
 
 ### 🌱 The Deal
-This starts as an unpaid collaboration, with the potential to evolve into **paid or equity opportunities** as the startup grows and secures investment — and possibly a **founding partnership** if it’s a great fit.
+This starts as an unpaid collaboration, with the potential to develop into a **paid role with equity** as we secure investment — and possibly a **founding partnership** for the right person.
 
 ---
 
