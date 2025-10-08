@@ -12,7 +12,7 @@ Right now, I’m validating the product and need to move fast — so I’m build
 ---
 
 ### 💪 What You’ll Do
-You’ll help drive that transition — **influencing direction, owning key product decisions, and shipping core features**. We’ll work side-by-side to design, build, and evolve the product and its technical foundation.
+You’ll help drive that transition — **influencing direction, owning key technical decisions, and shipping core features**. We’ll work side-by-side to design, build, and evolve the product and its technical foundation.
 
 ---
 
