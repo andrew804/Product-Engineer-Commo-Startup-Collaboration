@@ -41,4 +41,4 @@ Thanks, 
 ---
 
 ### ⬇️ What Your Portfolio Could Look Like
-<img style="max-width: 100%; height: auto; display: block; margin: 0 auto;" alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/3c895f09-2d37-45e4-a149-b98132e38906" />
+<img style="max-width: 100%; height: auto; display: block; margin: 0 auto;" alt="ChatGPT Image Sep 26, 2025 at 11_03_18 PM" src="https://github.com/user-attachments/assets/1c991696-cc29-44c9-858b-424eb1b43be2" />
