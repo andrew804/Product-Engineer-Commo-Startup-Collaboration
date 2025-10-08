@@ -30,7 +30,7 @@ This starts as an unpaid collaboration, with the potential to evolve into **paid
 ---
 
 ### 👋 Get in Touch
-If you’re curious, entrepreneurial, and love shipping real products, message me here:  
+If you’re curious, entrepreneurial, and love building real products, message me here:  
 💬 **WhatsApp:** +44 7909 338388  
 ✉️ **Email:** [andrew804@me.com](andrew804@me.com)  
 🔗 **LinkedIn:** [Andrew Morris](https://www.linkedin.com/in/andrew-morris-b41301361)
