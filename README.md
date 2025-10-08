@@ -19,7 +19,7 @@ You’ll help drive that transition — **influencing direction, owning key prod
 ### 🧰 What You’ll Get
 * Build something real and see it live in use
 * Lead full-stack development alongside a founder
-* Add an impressive project to your **portfolio, CV, and LinkedIn**
+* Add a standout project to your **portfolio, CV, and LinkedIn**
 * Gain genuine **startup experience and product ownership**
 
 ---
